@@ -48,8 +48,8 @@ body {
   font-family: 'Barlow', sans-serif;
   background-color: var(--cls-very-dark-blue);
   color: var(--cls-very-dark-grayish-blue);
-  font-size: 18px;
-  width: min(100%, 1440px);
+  font-size: 1.125rem;
+  width: min(100%, 90rem);
   margin-inline: auto;
 }
 
